@@ -1,0 +1,11 @@
+io\tat\model\GeneralAnalyticsModel.class
+io\tat\model\TrendAnalyticsModel.class
+io\tat\model\TrendDimModel.class
+io\tat\model\DualAnalyticsModel.class
+io\tat\automation\controller\GeneralAnalyticsController.class
+io\tat\model\ResolutionAnalyticsModel.class
+io\tat\model\SingleAnalyticsModel.class
+io\tat\model\TextAnalyticsModel.class
+io\tat\model\ColumnModel.class
+io\tat\model\TrendDateModel.class
+io\tat\automation\TatAutomationApplication.class
